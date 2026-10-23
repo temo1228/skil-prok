@@ -1,0 +1,21 @@
+﻿const {test,expect}=require('@playwright/test');
+test('Verity collection opens from smiley and stays out of Home and Discover',async({page})=>{
+ await page.goto('/');
+ const checkHidden=()=>page.evaluate(()=>visibleSongs().every(s=>!isVerity(s)));
+ expect(await checkHidden()).toBe(true);
+ await page.locator('[data-view=discover]').click();
+ expect(await checkHidden()).toBe(true);
+ await page.locator('#search').fill('Verity');
+ expect(await checkHidden()).toBe(true);
+ await expect(page.locator('#song-grid .song-card')).toHaveCount(0);
+ await page.locator('#verity-open').click();
+ await expect(page.locator('#page-title')).toHaveText('Verity songs.');
+ expect(await page.evaluate(()=>visibleSongs().length>0 && visibleSongs().every(isVerity))).toBe(true);
+ await expect(page.locator('#verity-open')).toHaveAttribute('aria-pressed','true');
+ await page.locator('[data-view=home]').click();
+ expect(await checkHidden()).toBe(true);
+ await page.setViewportSize({width:390,height:844});
+ await expect(page.locator('#verity-open')).toBeVisible();
+ await page.locator('#verity-open').click();
+ await expect(page.locator('#page-title')).toHaveText('Verity songs.');
+});

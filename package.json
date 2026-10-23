@@ -1,0 +1,21 @@
+{
+    "name": "groove-music-player",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "node --env-file-if-exists=.env server.js",
+        "dev": "node --env-file-if-exists=.env server.js",
+        "check": "node check.cjs",
+        "test": "playwright test",
+        "test:unit": "node verify.cjs"
+    },
+    "dependencies": {
+        "@supabase/supabase-js": "^2.117.2",
+        "cloudinary": "^2.11.0",
+        "firebase": "^13.0.0",
+        "jsmediatags": "^3.9.7"
+    },
+    "devDependencies": {
+        "@playwright/test": "^1.63.0"
+    }
+}

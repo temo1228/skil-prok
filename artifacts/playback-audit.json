@@ -1,0 +1,3464 @@
+{
+  "checkedAt": "2026-09-30T08:50:23.071Z",
+  "total": 417,
+  "tested": 417,
+  "working": 40,
+  "results": [
+    {
+      "id": "audius-1O97MXY",
+      "title": "August Glow (with Saly Betli)",
+      "artist": "zaza",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.458667,
+      "duration": 113.11475,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "yt-tVlKLpxyCBY",
+      "title": "It's me, It's Verity",
+      "artist": "Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.85272396757507,
+      "duration": "2:02",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "audius-mgdAbBv",
+      "title": "dear ocean (ft. NATURE)",
+      "artist": "Petit Biscuit",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.170667,
+      "duration": 206.44,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-Ya9ZEJr",
+      "title": "Twin Snakes",
+      "artist": "ATTLAS",
+      "provider": "Audius",
+      "playing": true,
+      "time": 35.458667,
+      "duration": 192.437521,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-VQrzwxB",
+      "title": "Hardcode",
+      "artist": "brokenkites",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.101333,
+      "duration": 182.614396,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "6814997425",
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814996161",
+      "title": "Cleveland!",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6796864754",
+      "title": "BbY WOW",
+      "artist": "KAROL G, Judeline & rusowsky",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6812477131",
+      "title": "Last Thing You Need (from GTAVI: The Album)",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "A full recording is not available for this song yet."
+    },
+    {
+      "id": "6814997428",
+      "title": "Pink Clouding",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814996163",
+      "title": "Babylon",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1844932150",
+      "title": "Choosin' Texas",
+      "artist": "Ella Langley",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6769568596",
+      "title": "Janice STFU",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6792676860",
+      "title": "Been By Now",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6763091996",
+      "title": "I Can't Love You Anymore",
+      "artist": "Ella Langley & Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1889992115",
+      "title": "stupid song",
+      "artist": "Olivia Rodrigo",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6792884088",
+      "title": "Nicole Kidman",
+      "artist": "ADÉLA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1833328840",
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1869436845",
+      "title": "Be Her",
+      "artist": "Ella Langley",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1889992123",
+      "title": "the cure",
+      "artist": "Olivia Rodrigo",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6790569133",
+      "title": "Dead Fresh",
+      "artist": "Lil Baby",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1648587330",
+      "title": "In A Minute",
+      "artist": "Lil Baby",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440929293",
+      "title": "Freestyle",
+      "artist": "Lil Baby",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1621119447",
+      "title": "WAIT FOR U (feat. Drake & Tems)",
+      "artist": "Future",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1452017954",
+      "title": "Best I Ever Had",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1802103970",
+      "title": "I'm The Problem",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714908987",
+      "title": "Wicked Games",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6810716062",
+      "title": "So Good (feat. Kendrick Lamar)",
+      "artist": "Jhené Aiko",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6807069451",
+      "title": "Dope Girl",
+      "artist": "Rod Wave",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1621803969",
+      "title": "LIKE ME (feat. 42 Dugg & Lil Baby)",
+      "artist": "Future",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1802104400",
+      "title": "Don't We",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1621207921",
+      "title": "Frozen",
+      "artist": "Lil Baby",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6769551476",
+      "title": "I’m Spent",
+      "artist": "Drake & Loe Shimmy",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1506297772",
+      "title": "March Madness",
+      "artist": "Future",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1556670532",
+      "title": "Wants and Needs (feat. Lil Baby)",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6779378648",
+      "title": "WTF GOIN",
+      "artist": "Belly Gang Kushington & 21 Savage",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1833328845",
+      "title": "Opalite",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440642743",
+      "title": "Marvins Room",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1813021660",
+      "title": "Broken Window Serenade",
+      "artist": "Whiskey Myers",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.753499996185305,
+      "duration": "5:32",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1818424212",
+      "title": "Last Night",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1621119426",
+      "title": "I'M DAT N***A",
+      "artist": "Future",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "A full recording is not available for this song yet."
+    },
+    {
+      "id": "1530123009",
+      "title": "Kacey Talk",
+      "artist": "YoungBoy Never Broke Again",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1817609509",
+      "title": "Man I Need",
+      "artist": "Olivia Dean",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1884403093",
+      "title": "Boston",
+      "artist": "STELLA LEFTY",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1017055092",
+      "title": "Stick Talk",
+      "artist": "Future",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1534816484",
+      "title": "Sum 2 Prove",
+      "artist": "Lil Baby",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1802103977",
+      "title": "Just In Case",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1584281787",
+      "title": "Knife Talk (feat. 21 Savage & Project Pat)",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1618153473",
+      "title": "Right On",
+      "artist": "Lil Baby",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1770160814",
+      "title": "weren't for the wind",
+      "artist": "Ella Langley",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1438765134",
+      "title": "Girls Need Love",
+      "artist": "Summer Walker",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1529510489",
+      "title": "Power Trip (feat. Miguel)",
+      "artist": "J. Cole",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1137966332",
+      "title": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1657869492",
+      "title": "Snooze",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440827492",
+      "title": "Tennessee Whiskey",
+      "artist": "Chris Stapleton",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1818425528",
+      "title": "Thinkin’ Bout Me",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1468618077",
+      "title": "Money In The Grave (feat. Rick Ross)",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1713814120",
+      "title": "Now Who",
+      "artist": "YoungBoy Never Broke Again",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1818426110",
+      "title": "Cowgirls (feat. ERNEST)",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1418213269",
+      "title": "God's Plan",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1818469738",
+      "title": "Wasted On You",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1802103975",
+      "title": "What I Want",
+      "artist": "Morgan Wallen & Tate McRae",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1031354882",
+      "title": "Don't",
+      "artist": "Bryson Tiller",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1526194192",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6769568598",
+      "title": "Shabang",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1239976610",
+      "title": "Broken Clocks",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1570323056",
+      "title": "Yonaguni",
+      "artist": "Bad Bunny",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1786643047",
+      "title": "30 For 30 (with Kendrick Lamar)",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1534816500",
+      "title": "Low Down",
+      "artist": "Lil Baby",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1744439049",
+      "title": "I Had Some Help (feat. Morgan Wallen)",
+      "artist": "Post Malone",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6783576167",
+      "title": "bloodstream",
+      "artist": "Alyssa Grace",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6769552411",
+      "title": "Great Expectation",
+      "artist": "SIENNA SPIRO",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1833328842",
+      "title": "Elizabeth Taylor",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440891494",
+      "title": "Passionfruit",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1617171238",
+      "title": "Vette Motors",
+      "artist": "YoungBoy Never Broke Again",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1817609514",
+      "title": "A Couple Minutes",
+      "artist": "Olivia Dean",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1569712108",
+      "title": "How It Feels",
+      "artist": "Lil Baby & Lil Durk",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1481606158",
+      "title": "Body",
+      "artist": "Summer Walker",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6798042825",
+      "title": "Jaded",
+      "artist": "Koe Wetzel & Ella Langley",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6810716027",
+      "title": "He Belongs",
+      "artist": "Jhené Aiko",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6763656876",
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6792884101",
+      "title": "Ain't In LA",
+      "artist": "ADÉLA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1892466278",
+      "title": "Take Me Back (Leave Me There)",
+      "artist": "Cody Johnson",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440841382",
+      "title": "Controlla",
+      "artist": "Drake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1744776167",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6762757958",
+      "title": "Orbiter",
+      "artist": "Noah Kahan",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1620419734",
+      "title": "Something in the Orange",
+      "artist": "Zach Bryan",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1871258330",
+      "title": "E85",
+      "artist": "Don Toliver",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "258643362",
+      "title": "Neon Moon",
+      "artist": "Brooks & Dunn",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1737150439",
+      "title": "Like That",
+      "artist": "Future, Metro Boomin & Kendrick Lamar",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1056384020",
+      "title": "No Flockin",
+      "artist": "Kodak Black",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6808391428",
+      "title": "onsra",
+      "artist": "comehelpglo",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1833328847",
+      "title": "Father Figure",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1447442333",
+      "title": "Valuable Pain",
+      "artist": "YoungBoy Never Broke Again",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6815843166",
+      "title": "ROUND & ROUND",
+      "artist": "DDG, 42 Dugg, pluto, Bankroll Ni & SMJ",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1853635937",
+      "title": "What You Need",
+      "artist": "Tems",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1818407111",
+      "title": "You Proof",
+      "artist": "Morgan Wallen",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1738257931",
+      "title": "Earrings",
+      "artist": "Malcolm Todd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440818972",
+      "title": "Poetic Justice (feat. Drake)",
+      "artist": "Kendrick Lamar",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6810715940",
+      "title": "Ghost",
+      "artist": "Jhené Aiko",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1889992113",
+      "title": "drop dead",
+      "artist": "Olivia Rodrigo",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1266332375",
+      "title": "Untouchable",
+      "artist": "YoungBoy Never Broke Again",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1376707066",
+      "title": "Beautiful Crazy",
+      "artist": "Luke Combs",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "635016640",
+      "title": "Sweater Weather",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1161504024",
+      "title": "24K Magic",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1666738585",
+      "title": "Fast Car",
+      "artist": "Luke Combs",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1485802970",
+      "title": "Adore You",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440872113",
+      "title": "A Lonely Night",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "829910927",
+      "title": "A Sky Full of Stars",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1796270267",
+      "title": "30 For 30 (with Kendrick Lamar)",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440903307",
+      "title": "All The Stars",
+      "artist": "Kendrick Lamar, SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544494912",
+      "title": "All I Ask",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1053934846",
+      "title": "Adventure of a Lifetime",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1870984036",
+      "title": "American Girls",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1870984033",
+      "title": "Aperture",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440861227",
+      "title": "Almost Is Never Enough",
+      "artist": "Ariana Grande & Nathan Sykes",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1773452221",
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1615585008",
+      "title": "As It Was",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814997429",
+      "title": "Babylon",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1030116020",
+      "title": "Baby Came Home 2 / Valentines",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1571330212",
+      "title": "Bad Habits",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1464549657",
+      "title": "Beautiful People (feat. Khalid)",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1444896442",
+      "title": "Bang Bang",
+      "artist": "Jessie J, Ariana Grande & Nicki Minaj",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1450695739",
+      "title": "bad guy",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1750307088",
+      "title": "Bed Chem",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1795513143",
+      "title": "Bed Chem",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440852694",
+      "title": "Best Mistake (feat. Big Sean)",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440852687",
+      "title": "Break Free (feat. Zedd)",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1739659142",
+      "title": "BIRDS OF A FEATHER",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1499378607",
+      "title": "Blinding Lights",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1538004012",
+      "title": "Break My Heart",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1193701328",
+      "title": "Castle on the Hill",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1363310482",
+      "title": "Call Out My Name",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1545382295",
+      "title": "Chasing Pavements",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1239977721",
+      "title": "Broken Clocks",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1739659141",
+      "title": "CHIHIRO",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814997427",
+      "title": "Cleveland!",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "852343743",
+      "title": "Childs Play (feat. Chance the Rapper)",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1525010621",
+      "title": "Cherry Flavoured",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1870984045",
+      "title": "Coming Up Roses",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1122776156",
+      "title": "Clocks",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714908991",
+      "title": "Coming Down",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440899117",
+      "title": "COPYCAT",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440532827",
+      "title": "Compass",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "576655102",
+      "title": "Count on Me",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1030116016",
+      "title": "Cry Baby",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1468058171",
+      "title": "Cruel Summer",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714909176",
+      "title": "D.D.",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1689238922",
+      "title": "Dance The Night",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1030116019",
+      "title": "Daddy Issues",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1525010457",
+      "title": "Devil's Advocate",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440872304",
+      "title": "Die For You",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1193701329",
+      "title": "Dive",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1762656732",
+      "title": "Die With A Smile",
+      "artist": "Lady Gaga & Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1750307379",
+      "title": "Don’t Smile",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1484636829",
+      "title": "Don't Start Now",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814997408",
+      "title": "Elizabeth Taylor",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1434745795",
+      "title": "Electricity (feat. Diplo & Mark Ronson)",
+      "artist": "Silk City, Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "A full recording is not available for this song yet."
+    },
+    {
+      "id": "1590036021",
+      "title": "Easy On Me",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1487502476",
+      "title": "everything i wanted",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814995864",
+      "title": "Elizabeth Taylor",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1485802975",
+      "title": "Falling",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1123076826",
+      "title": "Fix You",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1485802966",
+      "title": "Golden",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1546390013",
+      "title": "Good Days",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6763656725",
+      "title": "hate that i made you love me",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "576655094",
+      "title": "Grenade",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544494392",
+      "title": "Hello",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714502827",
+      "title": "Houdini",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714908977",
+      "title": "High For This",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1819861170",
+      "title": "House Tour",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1866732800",
+      "title": "I Just Might",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1471580177",
+      "title": "I Don't Care",
+      "artist": "Ed Sheeran & Justin Bieber",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440872309",
+      "title": "I Feel It Coming (feat. Daft Punk)",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1053934844",
+      "title": "Hymn for the Weekend",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1363310498",
+      "title": "I Was Never There",
+      "artist": "The Weeknd & Gesaffelstein",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440899127",
+      "title": "idontwannabeyouanymore",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1450695895",
+      "title": "i love you",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1734980444",
+      "title": "Illusion",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440835646",
+      "title": "Into You",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "467980717",
+      "title": "It Will Rain",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1752215160",
+      "title": "Juno",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "576670459",
+      "title": "Just the Way You Are",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1658650488",
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1657869393",
+      "title": "Kill Bill",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "448214025",
+      "title": "Kiss Me",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1739659149",
+      "title": "L’AMOUR DE MA VIE",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1226034810",
+      "title": "Kiwi",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1615585006",
+      "title": "Late Night Talking",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "448214023",
+      "title": "Lego House",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1532788352",
+      "title": "Levitating (feat. DaBaby)",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440843933",
+      "title": "Let Me Love You (feat. Lil Wayne)",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1538003843",
+      "title": "Levitating",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "573962551",
+      "title": "Locked Out of Heaven",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1687005657",
+      "title": "Life Goes On (feat. Luke Combs)",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1538004007",
+      "title": "Love Again",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440852992",
+      "title": "Love Me Harder",
+      "artist": "Ariana Grande & The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544494731",
+      "title": "Love in the Dark",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "576655099",
+      "title": "Marry You",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1545382976",
+      "title": "Make You Feel My Love",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1369380479",
+      "title": "lovely",
+      "artist": "Billie Eilish & Khalid",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1615585012",
+      "title": "Matilda",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1228739609",
+      "title": "New Rules",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1576350174",
+      "title": "My Universe",
+      "artist": "Coldplay X BTS",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440532834",
+      "title": "Nervous",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1615585001",
+      "title": "Music For a Sushi Restaurant",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1631579019",
+      "title": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1658650791",
+      "title": "Nobody Gets Me",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1676555845",
+      "title": "Nonsense",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1364709436",
+      "title": "One Kiss",
+      "artist": "Calvin Harris, Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440899467",
+      "title": "ocean eyes",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440852679",
+      "title": "One Last Time",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814995866",
+      "title": "Opalite",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1693891139",
+      "title": "One Of The Girls",
+      "artist": "The Weeknd, JENNIE & Lily Rose Depp",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814997409",
+      "title": "Opalite",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "726373148",
+      "title": "Paradise",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1657869546",
+      "title": "Open Arms (feat. Travis Scott)",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814996157",
+      "title": "Patient Zero",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1193701400",
+      "title": "Perfect",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1552269072",
+      "title": "Physical",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1050204626",
+      "title": "Photograph",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1795513492",
+      "title": "Please Please Please",
+      "artist": "Sabrina Carpenter & Dolly Parton",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814996162",
+      "title": "Pink Clouding",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1537486848",
+      "title": "pov",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1458925223",
+      "title": "Power is Power",
+      "artist": "SZA & The Weeknd & Travis Scott",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1030116024",
+      "title": "R.I.P. 2 My Youth",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1030116010",
+      "title": "Prey",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1500952424",
+      "title": "Rain On Me",
+      "artist": "Lady Gaga & Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440532773",
+      "title": "Reflections",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814997414",
+      "title": "Ruin The Friendship",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544491233",
+      "title": "Rolling in the Deep",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1866732797",
+      "title": "Risk It All",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1615585100",
+      "title": "Satellite",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1732348414",
+      "title": "Saturn",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544491234",
+      "title": "Rumour Has It",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440871712",
+      "title": "Secrets",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544494394",
+      "title": "Send My Love (To Your New Lover)",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544491988",
+      "title": "Set Fire to the Rain",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1193701392",
+      "title": "Shape of You",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1581087034",
+      "title": "Shivers",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1226034393",
+      "title": "Sign of the Times",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1550026144",
+      "title": "Skin",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "566322365",
+      "title": "Skyfall",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1658650499",
+      "title": "Snooze",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440532753",
+      "title": "Softcore",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1207120448",
+      "title": "Something Just Like This",
+      "artist": "The Chainsmokers & Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544491998",
+      "title": "Someone Like You",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1464549675",
+      "title": "South of the Border (feat. Camila Cabello & Cardi B)",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1122782281",
+      "title": "Sparks",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1123076830",
+      "title": "Speed of Sound",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440871932",
+      "title": "Stargirl Interlude (feat. Lana Del Rey)",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1511562950",
+      "title": "Stuck with U",
+      "artist": "Ariana Grande & Justin Bieber",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1438671365",
+      "title": "Sue Me",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1226034796",
+      "title": "Sweet Creature",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1750307079",
+      "title": "Taste",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "576655100",
+      "title": "Talking to the Moon",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1865854732",
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1819861157",
+      "title": "Tears",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1161504043",
+      "title": "That's What I Like",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "448213995",
+      "title": "The A Team",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714909161",
+      "title": "The Birds Pt. 1",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1030116018",
+      "title": "The Beach",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814997402",
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6814995862",
+      "title": "The Fate of Ophelia",
+      "artist": "Taylor Swift",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1122776155",
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1487574537",
+      "title": "The Other Side",
+      "artist": "SZA & Justin Timberlake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1050204631",
+      "title": "Thinking Out Loud",
+      "artist": "Ed Sheeran",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440861225",
+      "title": "The Way (feat. Mac Miller)",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6805877227",
+      "title": "Training Season",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440632601",
+      "title": "Thumbs",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1657869535",
+      "title": "Too Late",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1122782284",
+      "title": "Trouble",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1635388718",
+      "title": "TV",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1363310493",
+      "title": "Try Me",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544491235",
+      "title": "Turning Tables",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1523100120",
+      "title": "UN DIA (ONE DAY)",
+      "artist": "J Balvin, Dua Lipa, Bad Bunny & Tainy",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1657869488",
+      "title": "Used (feat. Don Toliver)",
+      "artist": "SZA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1122778616",
+      "title": "Viva la Vida",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714909174",
+      "title": "Valerie",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1161504045",
+      "title": "Versace On The Floor",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1122773680",
+      "title": "Viva La Vida",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544494722",
+      "title": "Water Under the Bridge",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1725878242",
+      "title": "we can't be friends (wait for your love)",
+      "artist": "Ariana Grande",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1485802967",
+      "title": "Watermelon Sugar",
+      "artist": "Harry Styles",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1551179678",
+      "title": "We're Good",
+      "artist": "Dua Lipa",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1696819855",
+      "title": "What Was I Made For? (From The Motion Picture \"Barbie\")",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1819861167",
+      "title": "When Did You Get Hot?",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1714908981",
+      "title": "What You Need",
+      "artist": "The Weeknd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "766049424",
+      "title": "West Coast",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1544494407",
+      "title": "When We Were Young",
+      "artist": "Adele",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "573962555",
+      "title": "When I Was Your Man",
+      "artist": "Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1739659144",
+      "title": "WILDFLOWER",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1450695872",
+      "title": "when the party's over",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440532763",
+      "title": "You Get Me so High",
+      "artist": "The Neighbourhood",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1122782283",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "716192666",
+      "title": "The One That Got Away",
+      "artist": "Katy Perry",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1450695745",
+      "title": "you should see me in a crown",
+      "artist": "Billie Eilish",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1887671067",
+      "title": "REDRED",
+      "artist": "CORTIS",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.910619973297116,
+      "duration": "2:45",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1147227707",
+      "title": "Cinderella (feat. Ty Dolla $ign)",
+      "artist": "Mac Miller",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1817499251",
+      "title": "Midnight Sun",
+      "artist": "Zara Larsson",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1027563253",
+      "title": "Hold My Hand",
+      "artist": "Jess Glynne",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.27003291989136,
+      "duration": "3:42",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1842122093",
+      "title": "Dame Un Grrr (Provi Extended Remix)",
+      "artist": "Fantomel, KATE LINN & Provi",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440769123",
+      "title": "Rock That Body",
+      "artist": "Black Eyed Peas",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1645556889",
+      "title": "Pretty Little Baby",
+      "artist": "Connie Francis",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1806614466",
+      "title": "Illegal",
+      "artist": "PinkPantheress",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1443865214",
+      "title": "Soul Survivor (feat. Akon)",
+      "artist": "Young Jeezy",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "A full recording is not available for this song yet."
+    },
+    {
+      "id": "1097861834",
+      "title": "Let Down",
+      "artist": "Radiohead",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1806231330",
+      "title": "WHIM WHAMIEE",
+      "artist": "pluto & YKNIECE",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "381237321",
+      "title": "Your Love Is My Drug",
+      "artist": "Kesha",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1793663645",
+      "title": "Ordinary",
+      "artist": "Alex Warren",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1820264150",
+      "title": "Golden",
+      "artist": "HUNTR/X, EJAE, AUDREY NUNA, REI AMI & KPop Demon Hunters Cast",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1820264147",
+      "title": "Soda Pop",
+      "artist": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee & KPop Demon Hunters Cast",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1746801012",
+      "title": "Espresso (On Vacation Version)",
+      "artist": "Sabrina Carpenter",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1743852427",
+      "title": "Love Me Not",
+      "artist": "Ravyn Lenae",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1737497080",
+      "title": "Good Luck, Babe!",
+      "artist": "Chappell Roan",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1820264156",
+      "title": "Your Idol",
+      "artist": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, KEVIN WOO, samUIL Lee & KPop Demon Hunters Cast",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1724488124",
+      "title": "Beautiful Things",
+      "artist": "Benson Boone",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1691699836",
+      "title": "Lose Control",
+      "artist": "Teddy Swims",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1719661252",
+      "title": "greedy",
+      "artist": "Tate McRae",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1749591722",
+      "title": "A Bar Song (Tipsy)",
+      "artist": "Shaboozey",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1801820501",
+      "title": "Anxiety",
+      "artist": "Doechii",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1775581103",
+      "title": "That’s So True",
+      "artist": "Gracie Abrams",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1781353929",
+      "title": "Not Like Us",
+      "artist": "Kendrick Lamar",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1771105935",
+      "title": "APT.",
+      "artist": "ROSÉ & Bruno Mars",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1760428041",
+      "title": "Diet Pepsi",
+      "artist": "Addison Rae",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1739080645",
+      "title": "Apple",
+      "artist": "Charli xcx",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1746042186",
+      "title": "Messy",
+      "artist": "Lola Young",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1699082734",
+      "title": "Water",
+      "artist": "Tyla",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1614063459",
+      "title": "Calm Down",
+      "artist": "Rema",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1531532767",
+      "title": "Essence (feat. Tems)",
+      "artist": "Wizkid",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1704156397",
+      "title": "UNAVAILABLE (feat. Musa Keys) [Sean Paul & DING DONG Remix]",
+      "artist": "Davido, Sean Paul & Ding Dong",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1623677811",
+      "title": "Last Last",
+      "artist": "Burna Boy",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1688642838",
+      "title": "Lonely At The Top",
+      "artist": "Asake",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1677446410",
+      "title": "Ella Baila Sola",
+      "artist": "Eslabon Armado & Peso Pluma",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.63510789509583,
+      "duration": "2:46",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1752031539",
+      "title": "Si Antes Te Hubiera Conocido",
+      "artist": "KAROL G",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1787022572",
+      "title": "NUEVAYoL",
+      "artist": "Bad Bunny",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1719170507",
+      "title": "LUNA",
+      "artist": "Feid & ATL Jacob",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1445011795",
+      "title": "Despacito (Versión Urbana/Sky)",
+      "artist": "Luis Fonsi & Daddy Yankee",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "212559797",
+      "title": "Hips Don't Lie (feat. Wyclef Jean)",
+      "artist": "Shakira",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1752739619",
+      "title": "Chk Chk Boom",
+      "artist": "Stray Kids",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.65413004196167,
+      "duration": "2:33",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1692686518",
+      "title": "Super Shy",
+      "artist": "NewJeans",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1773694544",
+      "title": "Supernova",
+      "artist": "aespa",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.51145207629394,
+      "duration": "3:13",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1616804152",
+      "title": "LOVE DIVE",
+      "artist": "IVE",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.50362687602234,
+      "duration": "2:57",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1584128934",
+      "title": "The Feels",
+      "artist": "TWICE",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.43061787983704,
+      "duration": "3:28",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1712731159",
+      "title": "Perfect Night",
+      "artist": "LE SSERAFIM",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "663098065",
+      "title": "I Wanna Be Yours",
+      "artist": "Arctic Monkeys",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1842475577",
+      "title": "Here With Me",
+      "artist": "d4vd",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1697335814",
+      "title": "My Love Mine All Mine",
+      "artist": "Mitski",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.584616954223634,
+      "duration": "2:17",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1762365714",
+      "title": "Cupid",
+      "artist": "FIFTY FIFTY",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1776748883",
+      "title": "Glimpse of Us",
+      "artist": "Joji",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6788150545",
+      "title": "Bad Habit",
+      "artist": "Steve Lacy",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1217977755",
+      "title": "Apocalypse",
+      "artist": "Cigarettes After Sex",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.57826901525879,
+      "duration": "4:50",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1682357121",
+      "title": "From The Start",
+      "artist": "Laufey",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1631390129",
+      "title": "The Perfect Pair",
+      "artist": "beabadoobee",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1508562516",
+      "title": "Heat Waves",
+      "artist": "Glass Animals",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1623929730",
+      "title": "Lovers Rock",
+      "artist": "TV Girl",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.49585196757507,
+      "duration": "3:33",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1806531961",
+      "title": "The Night We Met",
+      "artist": "Lord Huron",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1735414394",
+      "title": "Too Sweet",
+      "artist": "Hozier",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "590431785",
+      "title": "In the End",
+      "artist": "LINKIN PARK",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440783625",
+      "title": "Smells Like Teen Spirit",
+      "artist": "Nirvana",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "202272624",
+      "title": "Dreams",
+      "artist": "Fleetwood Mac",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "380907765",
+      "title": "Take On Me",
+      "artist": "a-ha",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1456623340",
+      "title": "September",
+      "artist": "Earth, Wind & Fire",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "269573364",
+      "title": "Billie Jean",
+      "artist": "Michael Jackson",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1422648513",
+      "title": "Dancing Queen",
+      "artist": "ABBA",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6781079522",
+      "title": "Don't Stop Me Now (With Long-Lost Guitars)",
+      "artist": "Queen",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.62050082070923,
+      "duration": "3:34",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "840431935",
+      "title": "I Wanna Dance with Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "617154366",
+      "title": "Get Lucky",
+      "artist": "Daft Punk, Pharrell Williams & Nile Rodgers",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "693226464",
+      "title": "Titanium (feat. Sia)",
+      "artist": "David Guetta",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440872929",
+      "title": "Wake Me Up",
+      "artist": "Avicii",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "922876189",
+      "title": "Summer",
+      "artist": "Calvin Harris",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1440862129",
+      "title": "Latch",
+      "artist": "Disclosure & Sam Smith",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1706358880",
+      "title": "(It Goes Like) Nanana",
+      "artist": "Peggy Gou",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1700707219",
+      "title": "adore u",
+      "artist": "Fred again.. & Obongjayar",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1640709568",
+      "title": "Kesariya (Lofi Flip)",
+      "artist": "VIBIE, Arijit Singh & Pritam",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.028994003814695,
+      "duration": "4:00",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1550578437",
+      "title": "Udd Gaye",
+      "artist": "Ritviz",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.63493801907349,
+      "duration": "3:00",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1523521149",
+      "title": "G.O.A.T.",
+      "artist": "Diljit Dosanjh",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.467044872207644,
+      "duration": "3:43",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1531596345",
+      "title": "Brown Munde",
+      "artist": "AP Dhillon, Gminxr, Gurinder Gill & Shinda Kahlon",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1449911564",
+      "title": "Piece Of Your Heart",
+      "artist": "MEDUZA & Goodboys",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1445277970",
+      "title": "Jai Ho! (You Are My Destiny) [feat. Nicole Scherzinger]",
+      "artist": "A.R. Rahman & The Pussycat Dolls",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "739004068",
+      "title": "Water No Get Enemy",
+      "artist": "Fela Kuti",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.61529587220764,
+      "duration": "11:00",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1524495247",
+      "title": "Experience (Starkey Remix / Remastered 2020)",
+      "artist": "Ludovico Einaudi",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "525090710",
+      "title": "Je veux",
+      "artist": "Baby Zaz",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1436677761",
+      "title": "River Flows In You",
+      "artist": "Yiruma",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1320781379",
+      "title": "Beggin'",
+      "artist": "Måneskin",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "380350246",
+      "title": "Time",
+      "artist": "Hans Zimmer",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "604770244",
+      "title": "Smooth Operator (Single Version)",
+      "artist": "Sade",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1625058461",
+      "title": "Don't Know Why",
+      "artist": "Norah Jones",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1146195714",
+      "title": "Pink + White",
+      "artist": "Frank Ocean",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "A full recording is not available for this song yet."
+    },
+    {
+      "id": "439618071",
+      "title": "Sure Thing",
+      "artist": "Miguel",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1799080776",
+      "title": "Best Part (feat. H.E.R.)",
+      "artist": "Daniel Caesar",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1541731262",
+      "title": "telepatía",
+      "artist": "Kali Uchis",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1796004433",
+      "title": "Daylight",
+      "artist": "David Kushner",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1632448108",
+      "title": "End of Beginning",
+      "artist": "Djo",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1621274683",
+      "title": "Another Love (Tiësto Remix)",
+      "artist": "Tom Odell & Tiësto",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "6813329731",
+      "title": "your verity",
+      "artist": "CG5 & Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.53373102288818,
+      "duration": "2:18",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1770187510",
+      "title": "Sailor Song",
+      "artist": "Gigi Perez",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1769148332",
+      "title": "LET ME IN",
+      "artist": "CG5",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.90607109727478,
+      "duration": "1:52",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1737331683",
+      "title": "Austin (Boots Stop Workin')",
+      "artist": "Dasha",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1728761776",
+      "title": "Sleep Well (feat. Chi-Chi, Kathy-Chan & Cami-Cat)",
+      "artist": "CG5",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.53334884550476,
+      "duration": "3:27",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1743575321",
+      "title": "Miles On It",
+      "artist": "Marshmello & Kane Brown",
+      "provider": "YouTube",
+      "status": "failed",
+      "message": "This recording cannot play here (YouTube 150). Try another song."
+    },
+    {
+      "id": "1754637265",
+      "title": "I See a Dreamer",
+      "artist": "CG5",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.33415896376037,
+      "duration": "3:10",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "audius-2o0ZVGK",
+      "title": "Andy Faisca - Forever You (Short Mix) [Crypto Ravers]",
+      "artist": "Crypto Ravers",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.377097,
+      "duration": 196.875,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-22xq2od",
+      "title": "get loud!",
+      "artist": "illexotic",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.136505,
+      "duration": 136.76725,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-VE730Oa",
+      "title": "Jazcardan - Siempre",
+      "artist": "Jazcardan",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.098667,
+      "duration": 203.155021,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-2Ab1QK2",
+      "title": "Guztavo Mx & Sr. Duffer - Discoteka (Extended Mix)",
+      "artist": "Guztavo Mx",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.152,
+      "duration": 304.761917,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-EGJVvJr",
+      "title": "Narshwhal - Give It Up",
+      "artist": "/\\/arshwhal",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.48,
+      "duration": 291.85,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-1j8bK7Q",
+      "title": "Zonii - Viral Yet",
+      "artist": "Zonii",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.16,
+      "duration": 145.954021,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-yN6OWP7",
+      "title": "Escape It",
+      "artist": "IXAM",
+      "provider": "Audius",
+      "playing": true,
+      "time": 35.699985,
+      "duration": 220.689667,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-ZEkOOgg",
+      "title": "Huh",
+      "artist": "MATTRICK",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.12,
+      "duration": 128.12,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-MlJ85km",
+      "title": "Nobody",
+      "artist": "God Sent Genius",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.328,
+      "duration": 149.295625,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-W47dOB",
+      "title": "Gabrielle AG - Echo",
+      "artist": "XDM Records",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.088075,
+      "duration": 168.021375,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-9RgRmaj",
+      "title": "CUSTO - CHECK",
+      "artist": "Aspire Higher",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.08,
+      "duration": 186.857146,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-agBM8jj",
+      "title": " Does Anybody Have Any Water? (feat. Paytra)",
+      "artist": "BLACKTYDE",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.4,
+      "duration": 186.589146,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "audius-3Rb0zr8",
+      "title": "Jazcardan - Electric Sky",
+      "artist": "Jazcardan",
+      "provider": "Audius",
+      "playing": true,
+      "time": 36.16,
+      "duration": 219.4385,
+      "status": "working",
+      "message": "Native full stream · Audius"
+    },
+    {
+      "id": "yt-lhCPiauHI-g",
+      "title": "Lord Verity – Master of Humanity",
+      "artist": "Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.76166319836426,
+      "duration": "2:20",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "yt-anhQ3fC1_hY",
+      "title": "The Verity Band – Be My Friend",
+      "artist": "Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.37192408010864,
+      "duration": "2:07",
+      "status": "working",
+      "message": "Full song · YouTube"
+    }
+  ]
+}

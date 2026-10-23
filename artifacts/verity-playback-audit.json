@@ -1,0 +1,85 @@
+{
+  "checkedAt": "2026-09-30T08:31:57.592Z",
+  "total": 7,
+  "tested": 7,
+  "working": 7,
+  "results": [
+    {
+      "id": "6813329731",
+      "title": "your verity",
+      "artist": "CG5 & Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.927831996185304,
+      "duration": "2:18",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1769148332",
+      "title": "LET ME IN",
+      "artist": "CG5",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.74808791798401,
+      "duration": "1:52",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1728761776",
+      "title": "Sleep Well (feat. Chi-Chi, Kathy-Chan & Cami-Cat)",
+      "artist": "CG5",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.04084111634827,
+      "duration": "3:27",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "yt-tVlKLpxyCBY",
+      "title": "It's me, It's Verity",
+      "artist": "Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.427539992370605,
+      "duration": "2:02",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "1754637265",
+      "title": "I See a Dreamer",
+      "artist": "CG5",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.43175287792969,
+      "duration": "3:10",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "yt-anhQ3fC1_hY",
+      "title": "The Verity Band – Be My Friend",
+      "artist": "Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 36.15776297138977,
+      "duration": "2:07",
+      "status": "working",
+      "message": "Full song · YouTube"
+    },
+    {
+      "id": "yt-lhCPiauHI-g",
+      "title": "Lord Verity – Master of Humanity",
+      "artist": "Horror Skunx",
+      "provider": "YouTube",
+      "playing": true,
+      "time": 35.78041710681153,
+      "duration": "2:20",
+      "status": "working",
+      "message": "Full song · YouTube"
+    }
+  ]
+}
